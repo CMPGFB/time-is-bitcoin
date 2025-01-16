@@ -61,9 +61,11 @@ MIT License - see the [LICENSE](LICENSE) file for details
 
 If you find this project useful, consider supporting development:
 
-- ⚡️ Lightning: [getalby.com/p/cmpgfb](https://getalby.com/p/cmpgfb)
-- ₿ Bitcoin: [bc1qqgpph8havxz343ywc82fqy8gkdtpzeg0mpdnu8](https://mempool.space/address/bc1qqgpph8havxz343ywc82fqy8gkdtpzeg0mpdnu8)
-- 💵 Cash App: [$CMPGFB](https://cash.app/$CMPGFB)
+⚡️ Lightning: [getalby.com/p/cmpgfb](https://getalby.com/p/cmpgfb)
+
+₿ Bitcoin: [bc1qqgpph8havxz343ywc82fqy8gkdtpzeg0mpdnu8](https://mempool.space/address/bc1qqgpph8havxz343ywc82fqy8gkdtpzeg0mpdnu8)
+
+💵 Cash App: [$CMPGFB](https://cash.app/$CMPGFB)
 
 ## Author
 
