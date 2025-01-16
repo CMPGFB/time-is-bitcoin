@@ -1,4 +1,4 @@
-# Time Is Bitcoin ⏰₿
+# Time Is Bitcoin 
 
 A minimalist web application that uses Bitcoin's blockchain as a global clock, demonstrating how Bitcoin's block timestamps create an immutable, decentralized time record.
 
